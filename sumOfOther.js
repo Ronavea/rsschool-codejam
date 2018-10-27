@@ -1,0 +1,1 @@
+const sumOfOther = (arr) => arr.map(item => arr.reduce((sum,item) => sum + item) - item);
