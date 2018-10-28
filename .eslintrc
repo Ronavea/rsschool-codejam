@@ -12,6 +12,7 @@
   "rules": {
       "linebreak-style": 0,
       "max-len": ["error", { "code": 200 }],
-      "import/newline-after-import": "off"
+      "import/newline-after-import": "off",
+      "no-param-reassign": "off"
   }
 }
